@@ -36,6 +36,6 @@ spec:
     volumes: 
       - name: vpro-db-data
         awsElasticBlackStore:
-          volumeId: (Need to create EBS Volume)
+          volumeId: 0aafa8ad05fbf8911
           fsType: ext4
         
